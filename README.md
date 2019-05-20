@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.com/gcdckampala/website-frontend.svg?branch=develop)](https://travis-ci.com/gcdckampala/website-frontend)
 [![Maintainability](https://api.codeclimate.com/v1/badges/e895c347a1d5169da43e/maintainability)](https://codeclimate.com/github/gcdckampala/website-frontend/maintainability)
-[![Coverage Status](https://coveralls.io/repos/github/gcdckampala/website-frontend/badge.svg?branch=develop)](https://coveralls.io/github/gcdckampala/website-frontend?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/gcdckampala/website-frontend/badge.svg?branch=develop)](https://coveralls.io/github/gcdckampala/website-frontend?branch=develop)
 
 ## Product Description
 
